@@ -1,0 +1,26 @@
+
+#logoImage {
+  height: 100px;
+}
+
+#top-header {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+#title {
+  font-size:30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
+
+#body {
+  padding-right: 50px;
+  padding-left: 50px;
+}
